@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:eduvillage/utils/constants.dart';
 
 /// Splash Screen
+// Animates the splash screen before entering the home flow.
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
 

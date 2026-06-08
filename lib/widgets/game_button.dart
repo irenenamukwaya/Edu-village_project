@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:eduvillage/utils/constants.dart';
 
 /// Reusable game button widget
+// Reusable button used throughout the game screens.
 class GameButton extends StatefulWidget {
   final String label;
   final VoidCallback onPressed;

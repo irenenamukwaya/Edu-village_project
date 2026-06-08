@@ -1,4 +1,5 @@
 /// Model for Word Pronunciation Game Questions
+// Parses word pronunciation questions from JSON data.
 class WordQuestion {
   final String id;
   final String word;

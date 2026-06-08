@@ -10,6 +10,7 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:eduvillage/app/app.dart';
 
+// Smoke test that verifies the app starts up and renders the main widget tree.
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.

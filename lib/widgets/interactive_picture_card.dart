@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 /// Static picture card for showing learning assets.
+// Shows the learning image with a fallback state.
 class InteractivePictureCard extends StatelessWidget {
   final String? assetPath;
   final String caption;

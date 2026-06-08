@@ -14,6 +14,7 @@ import 'package:eduvillage/utils/constants.dart';
 import 'package:eduvillage/screens/reward/reward_screen.dart';
 
 /// Activity Recognition Game Screen
+// Runs the activity matching game loop.
 class ActivityGameScreen extends StatefulWidget {
   const ActivityGameScreen({Key? key}) : super(key: key);
 

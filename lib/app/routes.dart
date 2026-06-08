@@ -7,6 +7,7 @@ import 'package:eduvillage/screens/word_game/word_game_screen.dart';
 import 'package:eduvillage/screens/math_game/math_game_screen.dart';
 
 /// App Routes Configuration
+// Maps named routes to the corresponding screen widgets.
 class AppRoutes {
   static const String splash = '/';
   static const String home = '/home';

@@ -1,6 +1,7 @@
 import 'package:flutter_tts/flutter_tts.dart';
 
 /// Service for Text-to-Speech functionality
+// Configures text-to-speech for pronunciation playback.
 class TTSService {
   late FlutterTts _flutterTts;
   bool _isInitialized = false;

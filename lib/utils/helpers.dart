@@ -2,6 +2,7 @@ import 'dart:math';
 import 'package:eduvillage/utils/constants.dart';
 
 /// Helper functions for EduVillage Application
+// Utility helpers shared by screens and services.
 class AppHelpers {
   /// Generate random integer between min and max (inclusive)
   static int randomInt(int min, int max) {

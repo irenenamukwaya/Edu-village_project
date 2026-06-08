@@ -13,6 +13,7 @@ import 'package:eduvillage/models/math_model.dart';
 import 'package:eduvillage/screens/reward/reward_screen.dart';
 
 /// Math and Counting Game Screen
+// Runs the math learning game loop.
 class MathGameScreen extends StatefulWidget {
   const MathGameScreen({Key? key}) : super(key: key);
 

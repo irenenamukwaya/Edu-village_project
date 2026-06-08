@@ -1,4 +1,5 @@
 /// Model for Activity Game Questions
+// Parses activity questions from JSON data.
 class ActivityQuestion {
   final String id;
   final String imagePath;

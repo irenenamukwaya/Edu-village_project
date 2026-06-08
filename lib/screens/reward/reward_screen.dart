@@ -6,6 +6,7 @@ import 'package:eduvillage/providers/coin_provider.dart';
 import 'package:eduvillage/widgets/game_button.dart';
 
 /// Reward/Results Screen
+// Presents the reward animation after a successful round.
 class RewardScreen extends StatefulWidget {
   final GameType gameType;
   final int correctAnswers;

@@ -1,4 +1,5 @@
 /// Model for Object Recognition Game Questions
+// Parses object recognition questions from JSON data.
 class ObjectQuestion {
   final String id;
   final String imagePath;

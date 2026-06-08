@@ -1,6 +1,7 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// Service for managing coins and rewards
+// Reads and writes the saved coin balance.
 class CoinService {
   static const String _coinsKey = 'eduvillage_coins';
   static const String _mathChallengeUnlockedKey =

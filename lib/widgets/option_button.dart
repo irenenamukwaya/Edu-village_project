@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:eduvillage/utils/constants.dart';
 
 /// Option button for answer choices
+// Displays a selectable answer option.
 class OptionButton extends StatefulWidget {
   final String label;
   final bool isSelected;

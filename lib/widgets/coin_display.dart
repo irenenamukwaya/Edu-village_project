@@ -4,6 +4,7 @@ import 'package:eduvillage/providers/coin_provider.dart';
 import 'package:eduvillage/utils/helpers.dart';
 
 /// Widget to display coin balance
+// Shows the current coin total.
 class CoinDisplay extends StatelessWidget {
   final double fontSize;
   final bool showLabel;

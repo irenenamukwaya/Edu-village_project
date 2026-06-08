@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:eduvillage/utils/constants.dart';
 
 /// Reusable question card widget
+// Renders the prompt card for each question.
 class QuestionCard extends StatelessWidget {
   final String question;
   final Widget? imageWidget;

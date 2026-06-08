@@ -11,6 +11,7 @@ import 'package:eduvillage/utils/constants.dart';
 import 'package:eduvillage/screens/reward/reward_screen.dart';
 
 /// Word Pronunciation Game Screen
+// Runs the word pronunciation game loop.
 class WordGameScreen extends StatefulWidget {
   const WordGameScreen({Key? key}) : super(key: key);
 

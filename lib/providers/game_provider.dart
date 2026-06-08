@@ -5,6 +5,7 @@ import 'package:eduvillage/services/audio_service.dart';
 import 'package:eduvillage/services/tts_service.dart';
 
 /// Provider for managing game state
+// Stores shared game state and notifies listeners.
 class GameProvider extends ChangeNotifier {
   static const String _musicVolumeKey = 'music_volume';
   static const String _musicMutedKey = 'music_muted';

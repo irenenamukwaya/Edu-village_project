@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:eduvillage/services/coin_service.dart';
 
 /// Provider for managing coin state
+// Tracks coin balance and persists it locally.
 class CoinProvider extends ChangeNotifier {
   final CoinService _coinService = CoinService();
   int _coins = 100;

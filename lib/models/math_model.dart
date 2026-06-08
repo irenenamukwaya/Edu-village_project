@@ -1,6 +1,7 @@
 import 'package:eduvillage/utils/constants.dart';
 
 /// Model for Math Game Numbers (Learning Mode)
+// Parses number learning and math question data from JSON.
 class NumberLearning {
   final int number;
   final String word;

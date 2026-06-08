@@ -3,6 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:eduvillage/utils/constants.dart';
 
 /// App Theme Configuration
+// Builds the shared theme used across the app.
 class AppTheme {
   /// Light Theme Data
   static ThemeData lightTheme = ThemeData(

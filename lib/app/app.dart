@@ -7,6 +7,7 @@ import 'package:eduvillage/providers/game_provider.dart';
 import 'package:eduvillage/utils/constants.dart';
 
 /// Main App Widget
+// Sets up the app shell and injects global providers.
 class EduVillageApp extends StatefulWidget {
   const EduVillageApp({Key? key}) : super(key: key);
 

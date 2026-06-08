@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:eduvillage/providers/game_provider.dart';
 
+// Opens the music and volume settings panel.
 class MusicSettingsButton extends StatelessWidget {
   const MusicSettingsButton({super.key});
 

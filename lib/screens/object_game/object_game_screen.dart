@@ -14,6 +14,7 @@ import 'package:eduvillage/utils/constants.dart';
 import 'package:eduvillage/screens/reward/reward_screen.dart';
 
 /// Object Recognition Game Screen
+// Runs the object recognition game loop.
 class ObjectGameScreen extends StatefulWidget {
   const ObjectGameScreen({Key? key}) : super(key: key);
 

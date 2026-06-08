@@ -5,6 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:eduvillage/utils/constants.dart';
 
 /// Service for managing audio and sound effects
+// Controls background music and sound effects.
 class AudioService {
   static const List<String> _mainBackgroundTracks = [
     'sounds/audio/old_macdonald.mp3',

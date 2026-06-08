@@ -6,6 +6,7 @@ import 'package:eduvillage/models/word_model.dart';
 import 'package:eduvillage/utils/helpers.dart';
 
 /// Service for loading and managing game questions
+// Loads question assets and converts them into models.
 class QuestionService {
   static const String _objectAssetPrefix = 'assets/images/objects/';
   static const String _nestedObjectAssetPrefix =

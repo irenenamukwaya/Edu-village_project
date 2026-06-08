@@ -6,6 +6,7 @@ import 'package:eduvillage/widgets/music_settings_button.dart';
 import 'package:eduvillage/utils/constants.dart';
 
 /// Home Screen
+// Shows the home hub and refreshes state when returning.
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
 

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 /// Constants for EduVillage Application
+// Central place for app settings and gameplay constants.
 class AppConstants {
   // App Names
   static const String appName = 'Edu-Reach';
