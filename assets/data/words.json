@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "word": "Ball",
+    "pronunciation": "Ball",
+    "sentence": "The ball is round and fun to play with.",
+    "sentencePronunciation": "The ball is round and fun to play with",
+    "image": "assets/images/activities/playing football.png"
+  },
+  {
+    "id": "2",
+    "word": "Sleep",
+    "pronunciation": "Sleep",
+    "sentence": "The child is sleeping on the bed.",
+    "sentencePronunciation": "The child is sleeping on the bed",
+    "image": "assets/images/activities/sleeping.jfif"
+  },
+  {
+    "id": "3",
+    "word": "Read",
+    "pronunciation": "Read",
+    "sentence": "The girl is reading a book in the library.",
+    "sentencePronunciation": "The girl is reading a book in the library",
+    "image": "assets/images/activities/reading.jfif"
+  },
+  {
+    "id": "4",
+    "word": "Dance",
+    "pronunciation": "Dance",
+    "sentence": "The children are dancing happily.",
+    "sentencePronunciation": "The children are dancing happily",
+    "image": "assets/images/activities/dancing.jfif"
+  },
+  {
+    "id": "5",
+    "word": "Eat",
+    "pronunciation": "Eat",
+    "sentence": "The family is eating food together.",
+    "sentencePronunciation": "The family is eating food together",
+    "image": "assets/images/activities/eating.jfif"
+  },
+  {
+    "id": "6",
+    "word": "Write",
+    "pronunciation": "Write",
+    "sentence": "The boy is writing on paper.",
+    "sentencePronunciation": "The boy is writing on paper",
+    "image": "assets/images/activities/writing.jfif"
+  },
+  {
+    "id": "7",
+    "word": "Clean",
+    "pronunciation": "Clean",
+    "sentence": "We must clean our room every day.",
+    "sentencePronunciation": "We must clean our room every day",
+    "image": "assets/images/activities/sweeping.jfif"
+  },
+  {
+    "id": "8",
+    "word": "Bath",
+    "pronunciation": "Bath",
+    "sentence": "Please take a bath before bed.",
+    "sentencePronunciation": "Please take a bath before bed",
+    "image": "assets/images/activities/bathing.jfif"
+  },
+  {
+    "id": "9",
+    "word": "Ride",
+    "pronunciation": "Ride",
+    "sentence": "I like to ride my bicycle.",
+    "sentencePronunciation": "I like to ride my bicycle",
+    "image": "assets/images/activities/riding.jfif"
+  },
+  {
+    "id": "10",
+    "word": "Paint",
+    "pronunciation": "Paint",
+    "sentence": "The artist is painting a beautiful picture.",
+    "sentencePronunciation": "The artist is painting a beautiful picture",
+    "image": "assets/images/activities/painting.png"
+  }
+]

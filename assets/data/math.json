@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "question": "How many objects do you see?",
+    "image": "assets/images/numbers/5.jpg",
+    "answer": "5",
+    "options": ["3", "4", "5", "6"]
+  },
+  {
+    "id": "2",
+    "question": "Count the items",
+    "image": "assets/images/numbers/3.jpg",
+    "answer": "3",
+    "options": ["2", "3", "4", "5"]
+  },
+  {
+    "id": "3",
+    "question": "How many are there?",
+    "image": "assets/images/numbers/10.jpg",
+    "answer": "10",
+    "options": ["8", "9", "10", "11"]
+  },
+  {
+    "id": "4",
+    "question": "Count the objects",
+    "image": "assets/images/numbers/7.jpg",
+    "answer": "7",
+    "options": ["6", "7", "8", "9"]
+  },
+  {
+    "id": "5",
+    "question": "How many can you count?",
+    "image": "assets/images/numbers/12.jpg",
+    "answer": "12",
+    "options": ["10", "11", "12", "13"]
+  },
+  {
+    "id": "6",
+    "question": "What is the number?",
+    "image": "assets/images/numbers/8.jpg",
+    "answer": "8",
+    "options": ["7", "8", "9", "10"]
+  },
+  {
+    "id": "7",
+    "question": "How many items?",
+    "image": "assets/images/numbers/15.jpg",
+    "answer": "15",
+    "options": ["13", "14", "15", "16"]
+  },
+  {
+    "id": "8",
+    "question": "Count carefully",
+    "image": "assets/images/numbers/6.jpg",
+    "answer": "6",
+    "options": ["5", "6", "7", "8"]
+  },
+  {
+    "id": "9",
+    "question": "How many do you see?",
+    "image": "assets/images/numbers/20.jpg",
+    "answer": "20",
+    "options": ["18", "19", "20", "21"]
+  },
+  {
+    "id": "10",
+    "question": "What number is this?",
+    "image": "assets/images/numbers/2.jpg",
+    "answer": "2",
+    "options": ["1", "2", "3", "4"]
+  }
+]

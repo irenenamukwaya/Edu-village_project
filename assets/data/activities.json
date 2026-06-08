@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "image": "assets/images/activities/sweeping.jfif",
+    "answer": "Sweeping",
+    "options": ["Playing", "Sweeping", "Sleeping", "Eating"],
+    "description": "A person is sweeping the floor with a broom"
+  },
+  {
+    "id": "2",
+    "image": "assets/images/activities/reading.jfif",
+    "answer": "Reading",
+    "options": ["Writing", "Reading", "Drawing", "Singing"],
+    "description": "A person is reading a book"
+  },
+  {
+    "id": "3",
+    "image": "assets/images/activities/writing.jfif",
+    "answer": "Writing",
+    "options": ["Reading", "Writing", "Painting", "Cooking"],
+    "description": "A person is writing on paper"
+  },
+  {
+    "id": "4",
+    "image": "assets/images/activities/sleeping.jfif",
+    "answer": "Sleeping",
+    "options": ["Eating", "Sleeping", "Running", "Jumping"],
+    "description": "A person is sleeping in bed"
+  },
+  {
+    "id": "5",
+    "image": "assets/images/activities/eating.jfif",
+    "answer": "Eating",
+    "options": ["Sleeping", "Eating", "Drinking", "Cooking"],
+    "description": "A person is eating food"
+  },
+  {
+    "id": "6",
+    "image": "assets/images/activities/brushing teeth.jfif",
+    "answer": "Brushing teeth",
+    "options": ["Brushing teeth", "Eating", "Cooking", "Washing"],
+    "description": "A person is brushing their teeth"
+  },
+  {
+    "id": "7",
+    "image": "assets/images/activities/dancing.jfif",
+    "answer": "Dancing",
+    "options": ["Running", "Dancing", "Walking", "Jumping"],
+    "description": "A person is dancing happily"
+  },
+  {
+    "id": "8",
+    "image": "assets/images/activities/washing hands.jfif",
+    "answer": "Washing hands",
+    "options": ["Eating", "Washing hands", "Swimming", "Cooking"],
+    "description": "A person is washing their hands"
+  },
+  {
+    "id": "9",
+    "image": "assets/images/activities/playing football.png",
+    "answer": "Playing",
+    "options": ["Working", "Playing", "Sleeping", "Cooking"],
+    "description": "A child is playing with toys"
+  },
+  {
+    "id": "10",
+    "image": "assets/images/activities/bathing.jfif",
+    "answer": "Bathing",
+    "options": ["Sleeping", "Eating", "Bathing", "Running"],
+    "description": "A person is taking a bath"
+  }
+]

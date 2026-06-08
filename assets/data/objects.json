@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "image": "assets/images/objects/objects/bell.png",
+    "answer": "Bell",
+    "options": ["Bell", "Book", "Cup", "Chair"],
+    "pronunciation": "Bell"
+  },
+  {
+    "id": "2",
+    "image": "assets/images/objects/objects/bird.png",
+    "answer": "Bird",
+    "options": ["Bird", "Duck", "Goat", "Rabbit"],
+    "pronunciation": "Bird"
+  },
+  {
+    "id": "3",
+    "image": "assets/images/objects/objects/book.png",
+    "answer": "Book",
+    "options": ["Pen", "Book", "Pencil", "Blackboard"],
+    "pronunciation": "Book"
+  },
+  {
+    "id": "4",
+    "image": "assets/images/objects/objects/broom.png",
+    "answer": "Broom",
+    "options": ["Broom", "Bench", "Bell", "Table"],
+    "pronunciation": "Broom"
+  },
+  {
+    "id": "5",
+    "image": "assets/images/objects/objects/cat.png",
+    "answer": "Cat",
+    "options": ["Cat", "Dog", "Cow", "Pig"],
+    "pronunciation": "Cat"
+  },
+  {
+    "id": "6",
+    "image": "assets/images/objects/objects/chair.png",
+    "answer": "Chair",
+    "options": ["Chair", "Bench", "Table", "Sofa"],
+    "pronunciation": "Chair"
+  },
+  {
+    "id": "7",
+    "image": "assets/images/objects/objects/cup.png",
+    "answer": "Cup",
+    "options": ["Cup", "Plate", "Bell", "Cherry"],
+    "pronunciation": "Cup"
+  },
+  {
+    "id": "8",
+    "image": "assets/images/objects/objects/pencil.png",
+    "answer": "Pencil",
+    "options": ["Pencil", "Pen", "Book", "School Bag"],
+    "pronunciation": "Pencil"
+  },
+  {
+    "id": "9",
+    "image": "assets/images/objects/objects/plate.png",
+    "answer": "Plate",
+    "options": ["Plate", "Cup", "Bench", "Bell"],
+    "pronunciation": "Plate"
+  },
+  {
+    "id": "10",
+    "image": "assets/images/objects/objects/umbrella.png",
+    "answer": "Umbrella",
+    "options": ["Umbrella", "Chair", "Pencil", "Blackboard"],
+    "pronunciation": "Umbrella"
+  },
+  {
+    "id": "11",
+    "image": "assets/images/objects/objects/blackboard.png",
+    "answer": "Blackboard",
+    "options": ["Blackboard", "Book", "Table", "Chair"],
+    "pronunciation": "Blackboard"
+  },
+  {
+    "id": "12",
+    "image": "assets/images/objects/objects/school bag.png",
+    "answer": "School Bag",
+    "options": ["School Bag", "Book", "Bench", "Cup"],
+    "pronunciation": "School Bag"
+  },
+  {
+    "id": "13",
+    "image": "assets/images/objects/objects/table.png",
+    "answer": "Table",
+    "options": ["Table", "Chair", "Bench", "Sofa"],
+    "pronunciation": "Table"
+  },
+  {
+    "id": "14",
+    "image": "assets/images/objects/objects/cherry.png",
+    "answer": "Cherry",
+    "options": ["Cherry", "Bell", "Cup", "Plate"],
+    "pronunciation": "Cherry"
+  },
+  {
+    "id": "15",
+    "image": "assets/images/objects/objects/bench.png",
+    "answer": "Bench",
+    "options": ["Bench", "Chair", "Table", "Sofa"],
+    "pronunciation": "Bench"
+  }
+]
