@@ -12,6 +12,7 @@ class AppTheme {
       seedColor: AppConstants.primaryColor,
       brightness: Brightness.light,
     ),
+    scaffoldBackgroundColor: const Color(0xFFF8FAFF),
     textTheme: GoogleFonts.poppinsTextTheme(ThemeData.light().textTheme),
     appBarTheme: AppBarTheme(
       backgroundColor: Colors.white,
@@ -25,13 +26,16 @@ class AppTheme {
     ),
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
+        elevation: 0,
+        foregroundColor: Colors.white,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
         padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
       ),
     ),
     cardTheme: CardThemeData(
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-      elevation: 4,
+      elevation: 2,
+      shadowColor: Colors.black12,
     ),
   );
 

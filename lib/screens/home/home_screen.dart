@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final coinProvider = context.watch<CoinProvider>();
 
     return Scaffold(
-      backgroundColor: AppConstants.backgroundColor,
+      backgroundColor: const Color(0xFFF8FAFF),
       body: SafeArea(
         child: SingleChildScrollView(
           child: Padding(
@@ -131,7 +131,14 @@ class _HomeScreenState extends State<HomeScreen> {
                 Container(
                   padding: const EdgeInsets.all(16),
                   decoration: BoxDecoration(
-                    color: AppConstants.primaryColor.withOpacity(0.1),
+                    gradient: LinearGradient(
+                      colors: [
+                        AppConstants.primaryColor.withOpacity(0.14),
+                        AppConstants.primaryColor.withOpacity(0.06),
+                      ],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                    ),
                     borderRadius: BorderRadius.circular(15),
                     border: Border.all(
                       color: AppConstants.primaryColor.withOpacity(0.3),
@@ -184,7 +191,11 @@ class _HomeScreenState extends State<HomeScreen> {
       child: Container(
         padding: const EdgeInsets.all(20),
         decoration: BoxDecoration(
-          color: Colors.white,
+          gradient: const LinearGradient(
+            colors: [Colors.white, Color(0xFFFBFDFF)],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
           borderRadius: BorderRadius.circular(20),
           border: Border.all(color: color.withOpacity(0.3), width: 2),
           boxShadow: [
@@ -192,6 +203,7 @@ class _HomeScreenState extends State<HomeScreen> {
               color: color.withOpacity(0.15),
               blurRadius: 20,
               spreadRadius: 2,
+              offset: const Offset(0, 8),
             ),
           ],
         ),
